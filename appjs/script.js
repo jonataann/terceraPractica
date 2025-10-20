@@ -1,8 +1,8 @@
 $(document).ready(function(){
     $("#ocultar").click(function(){
-        $("#parrafo2").hide();
+        $("#parrafo2").hide()
     });
     $("#mostrar").click(function(){
-        $("#parrafo2").show();
+        $("#parrafo2").show()
     });
 })
