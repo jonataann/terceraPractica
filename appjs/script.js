@@ -5,4 +5,4 @@ $(document).ready(function(){
     $("#mostrar").click(function(){
         $("#parrafo2").show();
     });
-});
+})
